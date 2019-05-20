@@ -10,4 +10,4 @@ There is much work to be done, including detailed pictures, schematics, and a lo
 To get the full functionality intended, it's likely that a Neural-Network of some sort will be utilized,
 but the primary goal as of now is getting comfortable w/how to actually control the rover.
 
-More to come....
+![alt text](https://raw.githubusercontent.com/Connor-Wilhoit/VespeRover/master/rover.jpg)
